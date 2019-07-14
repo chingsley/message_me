@@ -15,3 +15,14 @@
 .login-form input {
   border: 1px solid red;
 }
+
+#messages {
+  height: 15em;
+  overflow: auto;
+}
+
+.input {
+  button {
+    display: none;
+  }
+}
